@@ -19,7 +19,7 @@ class ViewController: UIViewController {
         count = count + 1
         label.text = String(count)
         
-        if count == 10 {
+        if count == 5 {
             
           count = 0
             
