@@ -21,7 +21,7 @@ class ViewController: UIViewController {
         
         if count == 5 {
             
-          count = 0
+          count = 3
             
           //performSegue(withIdentifier: "next", sender: nil)
             
